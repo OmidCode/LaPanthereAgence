@@ -75,6 +75,10 @@ ul {
   padding: 20px 50px;
 }
 
+.center-block {
+  border-radius: 50px;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
